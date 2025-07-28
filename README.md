@@ -1,16 +1,24 @@
-## Hi there 👋
+# 欢迎来到星辰网络工作室
 
-<!--
-**LuciusKarmen/LuciusKarmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这是一支专注于互联网开发与数字创新的年轻团队，致力于打造高质量的 Web 应用、小程序和企业级解决方案。
 
-Here are some ideas to get you started:
+## 我们的优势
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ 前端设计：响应式网站、Vue/React 框架精通
+- ✅ 后端开发：Node.js、Spring Boot
+- ✅ 移动开发：微信小程序、App 开发
+- ✅ 技术支持：7×24 小时在线服务，全程技术指导
+
+## 本工作室的愿景 ❤
+
+以技术为基石，以用户体验为核心，助力企业实现数字化转型，让科技点亮未来。
+
+## 官网链接
+
+[http://www.xingchengnet.online:8889](http://www.xingchengnet.online:8889)
+
+## 联系方式
+
+📧 邮箱：karmenluicious@gmail.com  
+📞 电话：+86 183-2918-3547  
+📍 地址：中国 · 杭州市西湖区
