@@ -1,5 +1,5 @@
 # 欢迎来到星辰网络工作室
-
+![image](https://i-blog.csdnimg.cn/blog_migrate/0c5ef5e8d02ca01a711bfff4057a844b.png "许光明")
 这是一支专注于互联网开发与数字创新的年轻团队，致力于打造高质量的 Web 应用、小程序和企业级解决方案。
 
 ## 我们的优势
